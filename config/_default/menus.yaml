@@ -8,14 +8,14 @@ main:
     url: '#about'
     weight: 10
   - name: Save the Rhinos
-    url: '#posts'
+    url: '#accomplishments'
     weight: 20
   - name: Initiatives
     url: '#projects'
     weight: 30
   - name: Rehabilitation
-    url: '#talks'
+    url: '#gallery'
     weight: 40
-  - name: Back to Life
-    url: '#featured'
+  - name: Bibliography
+    url: '#contact'
     weight: 50
