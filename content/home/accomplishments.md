@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Save the Rhinos'
+title: 'Chosen Data Set'
 subtitle: 
 
 # Date format
@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://files.worldwildlife.org/wwfcmsprod/images/Population_Distribution_GOH_Rhino/portrait_overview/46we6bxc6g_Population_Distribution_GOH_Rhino.jpg
+- certificate_url: https://ourworldindata.org/grapher/indian-rhinos
   date_end: ""
   date_start: "2021-01-25"
   description: ""
   organization: Rhino Distribution
-  organization_url: https://files.worldwildlife.org/wwfcmsprod/images/Population_Distribution_GOH_Rhino/portrait_overview/46we6bxc6g_Population_Distribution_GOH_Rhino.jpg
-  title: Historical vs Present distribution
+  organization_url: https://ourworldindata.org/grapher/indian-rhinos
+  title: Indian Rhino Population (1966-2018)
   url: ""
 
 
