@@ -4,7 +4,7 @@ email: ''
 highlight_name: yes
 organizations:
 - name: Rhinoceros Unicornis
-  url: https://www.stanford.edu/
+  url: https://en.wikipedia.org/wiki/Indian_rhinoceros
 role: Greater One-horned Rhinoceros
 social: null
 superuser: yes
