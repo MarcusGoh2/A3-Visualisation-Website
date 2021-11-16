@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: hero
 
 # This file represents a page section.
 headless: true
@@ -10,28 +10,19 @@ headless: true
 weight: 65
 
 title: Initiatives
-subtitle: ''
+subtitle: 'Examples of some initiatives in the Indian rhino protection effort'
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
-
+cta:
+  url: 'https://rhinos.org/our-work/where-we-work/india/'
+  label: The International Rhino Foundation
+  icon_pack: fas
+  icon: bacon
+cta_alt:
+  url: 'https://www.wwfindia.org/news_facts/feature_stories/protect_the_indian_rhino_secure_our_grasslands/'
+  label: WWF global initiative
+  icon_pack: fas
+  icon: bacon
+  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -41,7 +32,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
